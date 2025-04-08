@@ -4,5 +4,3 @@ templates
 app.py
 tailwind.config.js
 nenv
-best_model1_weights.h5
-scaler.pickle
